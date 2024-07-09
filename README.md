@@ -1,2 +1,1 @@
-# hello_golang
-Hello Golang~
+Record the study of Golang.
